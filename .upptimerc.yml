@@ -6,7 +6,7 @@ sites:
   - name: Main Bot Server (🇦🇺)
     url: $MAIN_SERVER
     icon: https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/psharma04/image-repo/main/uploads/robot_1f916.png
-  - name: Music Server (🇫🇷)🇷
+  - name: Music Server (🇫🇷)
     check: "tcp-ping"
     url: $MUSIC_SERVER
     port: 2333
