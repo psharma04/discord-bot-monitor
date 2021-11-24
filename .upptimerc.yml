@@ -14,9 +14,9 @@ status-website:
   cname: discord.pshar.ma
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: "Pepsi's Discord Bot"
-  introTitle: "**FunkyBot** is an all-purpose Discord bot run by [Pranav Sharma](https://ko-fi/hyperbolicpurple)."
-  introMessage: "It's based on Discord Red, a NodeJS project for building Discord bots. [Add it to your server today!](https://discord.com/oauth2/authorize?client_id=887925551346642965&scope=bot)"
+  name: FunkyBot
+  introTitle: **FunkyBot** is an all-purpose Discord bot run by [Pranav Sharma](https://ko-fi/hyperbolicpurple).
+  introMessage: The bot is based on Discord Red, a NodeJS project for building Discord bots. [Add it to your server today!](https://discord.com/oauth2/authorize?client_id=887925551346642965&scope=bot)
   navbar:
     - title: Status
       href: /
