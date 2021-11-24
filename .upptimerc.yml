@@ -3,10 +3,12 @@ owner: psharma04 # Your GitHub organization or username, where this repository l
 repo: discord-bot-monitor # The name of this repository
 
 sites:
-  - name: Main Bot Server
-    url: https://fileshare.pshar.ma
-  - name: Music Server
-    url: https://fileshare.pshar.ma
+  - name: Main Bot Server (🇦🇺)
+    url: $MAIN_SERVER
+  - name: Music Server (🇫🇷)🇷
+    check: "tcp-ping"
+    url: $MUSIC_SERVER
+    port: 2333
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
