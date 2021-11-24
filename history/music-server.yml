@@ -1,7 +1,7 @@
-url: https://fileshare.pshar.ma
+url: $MUSIC_SERVER
 status: up
 code: 200
-responseTime: 264
-lastUpdated: 2021-11-24T09:42:01.160Z
+responseTime: 0
+lastUpdated: 2021-11-24T09:44:43.478Z
 startTime: Wed Nov 24 2021 09:29:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
