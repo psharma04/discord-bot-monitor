@@ -5,15 +5,18 @@ repo: discord-bot-monitor # The name of this repository
 sites:
   - name: Main Bot Server (🇦🇺)
     url: $MAIN_SERVER
+    icon: https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/psharma04/image-repo/main/uploads/robot_1f916.png
   - name: Music Server (🇫🇷)🇷
     check: "tcp-ping"
     url: $MUSIC_SERVER
     port: 2333
+    icon: https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/psharma04/image-repo/main/uploads/musical-note_1f3b5.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: discord.pshar.ma
+  theme: night
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: FunkyBot
