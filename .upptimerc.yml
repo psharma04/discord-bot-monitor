@@ -15,11 +15,13 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: FunkyBot
-  introTitle: **FunkyBot** is an all-purpose Discord bot run by [Pranav Sharma](https://ko-fi/hyperbolicpurple).
+  introTitle: "**FunkyBot** is an all-purpose Discord bot run by Pranav Sharma."
   introMessage: The bot is based on Discord Red, a NodeJS project for building Discord bots. [Add it to your server today!](https://discord.com/oauth2/authorize?client_id=887925551346642965&scope=bot)
   navbar:
     - title: Status
       href: /
+    - title: Donate
+      href: https://ko-fi.com/hyperbolicpurple
     - title: Invite the Bot!!
       href: https://discord.com/oauth2/authorize?client_id=887925551346642965&scope=bot
 
