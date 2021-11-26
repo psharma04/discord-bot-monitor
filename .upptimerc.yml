@@ -28,7 +28,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-      - title: Docs
+    - title: Docs
       href: https://docs.discord.pshar.ma/
     - title: Donate
       href: https://ko-fi.com/hyperbolicpurple
