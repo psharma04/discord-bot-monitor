@@ -4,9 +4,9 @@
     "url": "$MAIN_SERVER",
     "icon": "https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/psharma04/image-repo/main/uploads/robot_1f916.png",
     "slug": "main-bot-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 808,
     "timeMonth": 726,
     "timeYear": 726,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-25": 0
+    }
   },
   {
     "name": "Music Server (🇫🇷)",
