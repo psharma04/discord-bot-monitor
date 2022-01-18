@@ -5,16 +5,16 @@
     "icon": "https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/psharma04/image-repo/main/uploads/robot_1f916.png",
     "slug": "main-bot-server",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 722,
-    "timeDay": 634,
-    "timeWeek": 694,
-    "timeMonth": 733,
-    "timeYear": 722,
+    "uptimeYear": "99.98%",
+    "time": 726,
+    "timeDay": 933,
+    "timeWeek": 719,
+    "timeMonth": 743,
+    "timeYear": 726,
     "dailyMinutesDown": {
       "2021-12-25": 19
     }
