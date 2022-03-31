@@ -33,7 +33,7 @@ status-website:
     - title: Donate
       href: https://ko-fi.com/hyperbolicpurple
     - title: About the Dev
-      href: https://blog.pshar.ma
+      href: https://www.pshar.ma
     - title: Invite the Bot!!
       href: https://discord.com/oauth2/authorize?client_id=887925551346642965&scope=bot
 
