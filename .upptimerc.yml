@@ -20,7 +20,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: PepsiBot
-  introTitle: "**PepsiBot** is an all-purpose Discord bot run by Pranav Sharma."
+  introTitle: "**PepsiBot** is an all-purpose Discord bot run by HyperbolicPurple."
   introMessage: The bot is based on Discord Red, a NodeJS project for building Discord bots. [Add it to your server today!](https://discord.com/oauth2/authorize?client_id=887925551346642965&scope=bot)
   scripts:
     - src: https://arc.io/widget.min.js#6x6hfFsy
