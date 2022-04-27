@@ -21,7 +21,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: PepsiBot
   introTitle: "**PepsiBot** is an all-purpose Discord bot run by HyperbolicPurple."
-  introMessage: The bot is based on Discord Red, a NodeJS project for building Discord bots. [Add it to your server today!](https://discord.com/oauth2/authorize?client_id=887925551346642965&scope=bot)
+  introMessage: The bot is based on Discord Red, a NodeJS project for building Discord bots. [Add it to your server today!](https://pks.ai/add-pepsibot)
   scripts:
     - src: https://arc.io/widget.min.js#6x6hfFsy
       async: true
@@ -35,7 +35,7 @@ status-website:
     - title: Privacy
       href: https://pks.ai/privacy
     - title: Invite the Bot!!
-      href: https://discord.com/oauth2/authorize?client_id=887925551346642965&scope=bot
+      href: https://pks.ai/add-pepsibot
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
